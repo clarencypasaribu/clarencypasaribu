@@ -1,6 +1,6 @@
-# Hi there, I'm [Nama Kamu] 👋
+# Hi there, I'm Cece 👋
 
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Banner](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 🚀 Introduction
 Halo semuanya! Nama saya Clarency Christy Pasaribu, seorang mahasiswi di Universitas Diponegoro yang tertarik pada dunia IT.  
@@ -40,7 +40,7 @@ Berikut beberapa teknologi dan bahasa pemrograman yang saya kuasai: python, java
 ## 🌐 Social Media Links
 Temui saya di sini:
 
-- [Twitter / X](https://instagram.com/[clarencyyyy])
+- [Instagram](https://instagram.com/[clarencyyyy])
 
 ---
 
